@@ -39,7 +39,7 @@ ___TEMPLATE_PARAMETERS___
   },
   {
     "type": "TEXT",
-    "name": "dataset",
+    "name": "datasetId",
     "displayName": "Dataset ID",
     "simpleValueType": true,
     "help": "Set to the Dataset ID of the BigQuery table.",
@@ -51,7 +51,7 @@ ___TEMPLATE_PARAMETERS___
   },
   {
     "type": "TEXT",
-    "name": "table",
+    "name": "tableId",
     "displayName": "Table ID",
     "simpleValueType": true,
     "valueValidators": [
